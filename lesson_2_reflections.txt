@@ -34,3 +34,7 @@ organized? How would branches help?
 
 when you change the code with some experimentation
 or maybe anouther language version .
+
+How do the diagrams help you visualize the branch structure?
+
+it is made clear from where the branches divert from the master.
