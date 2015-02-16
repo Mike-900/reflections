@@ -33,8 +33,16 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
 when you change the code with some experimentation
+
+
 or maybe anouther language version .
 
 How do the diagrams help you visualize the branch structure?
 
 it is made clear from where the branches divert from the master.
+
+What is the result of merging two branches together why do we represent it in the diagram
+the way we do?
+
+different works of code get together and we represent it to see where the
+different workers of code  diverged.
