@@ -46,3 +46,7 @@ the way we do?
 
 different works of code get together and we represent it to see where the
 different workers of code  diverged.
+
+What are the pros and cons of Gits automatic merging vs. always doing merges
+manually?
+pros it saves a lot of work, cons it might still be possible to miss something.
