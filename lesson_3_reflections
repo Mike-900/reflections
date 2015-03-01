@@ -17,3 +17,9 @@ a fork is your own branchy like verson of someone elses code where you
 can work on without changing the code of the original writer.
 a clone is when you put an exact copy from a code from the web on your 
 own computer. I guess  you can clone from your own pc towards your own pc too. a branch is another deversion from the master just to experiment
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can work on it offline
