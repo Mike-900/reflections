@@ -8,7 +8,8 @@ Indeed working with the command line was like 25 years ago for me and gave me so
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-In having access to a previous version you keep also access to other peaces of code which , although not useful in your current application, can be useful in future (completely) other applications.
+In having access to a previous version you keep also access to other peaces of code which , 
+although not useful in your current application, can be useful in future (completely) other applications.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
